@@ -1,0 +1,21 @@
+/* Variables */
+:root {
+    --heading-color: #15436b;
+    /* --nav-color: #88a1b9; */
+    --nav-color: #2f699c;
+}
+
+/* Signup */
+#signup-heading{
+    color: var(--heading-color);
+}
+
+/* Admin */
+#admin-nav{
+    background-color: var(--nav-color);
+}
+
+/* Notice board */
+/* #default-user-img{
+    width: 5rem !important;
+} */

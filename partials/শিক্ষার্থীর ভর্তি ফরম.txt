@@ -1,0 +1,39 @@
+শিক্ষার্থীর ভর্তি ফরম
+সঠিক তথ্য দিয়ে ফরমটি পূরণ করুন, অন্যথায় আপনার ভর্তি ফরমটি বাতিল হয়ে যাবে।
+আপনার ফরমটি সাবমিট হয়েছে, দয়া করে ৭২ ঘন্টার মধ্যে আমাদের অফিসে যোগাযোগ করুন।
+আপনার ফরমটি সাবমিট হয়নি। দয়া করে কিছুক্ষন পর আবার চেষ্টা করুন।
+দয়া করে একই পাসওয়ার্ড দুইবার দিয়ে পুনরায় চেষ্টা করুন।
+
+
+
+শিক্ষকের আবেদন ফরম
+সঠিক তথ্য দিয়ে আবেদন ফরমটি পূরণ করুন, অন্যথায় আপনার আবেদন ফরমটি বাতিল হয়ে যাবে।
+আপনার আবেদনটি সাবমিট হয়েছে, দয়া করে আমাদের অফিসে এসে যোগাযোগ করুন।
+আপনার আবেদনটি সাবমিট হয়নি। দয়া করে কিছুক্ষন পর আবার চেষ্টা করুন।
+দয়া করে একই পাসওয়ার্ড দুইবার দিয়ে পুনরায় চেষ্টা করুন।
+
+
+আপনার ফরমটি সাবমিট হয়েছে। এখর আপনি লগইন করতে পারেন।
+এই নামের ইউজার ইতোমধ্যে রয়েছে। দয়া করে নতুন কোনো ইউজার নেম দিয়ে পুনরায় চেষ্টা করুন।
+
+রেজিস্ট্রেশন ফরম
+
+আপনার মতামতের জন্য ধন্যবাদ।
+
+দয়া করে লগইন করে মতামত করুন।
+
+
+
+// // Confirmation for adding class in teacher's account.
+        // var addClassBtn = document.getElementById("add-class-btn");
+        // var pass = '<?php echo $password; ?>';
+        // addClassBtn.addEventListener('click', () => {
+        //     var confirm = window.prompt("Please type your password to add your class in your account...");
+        //     if (confirm != '') {
+        //         // if (<?php password_verify(confirm, pass)?>) {
+        //             addClassBtn.setAttribute("href", "/ECC/partials/_add_class.php?tec_id=<?php echo $tec_id_main; ?>")
+        //         } else {
+        //             addClassBtn.setAttribute("href", "<?php $_SERVER['REQUEST_URI'] ?>?false_pass=true")
+        //         }
+        //     }
+        // })

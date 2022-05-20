@@ -1,0 +1,41 @@
+/* Variables */
+:root {
+    --heading-color: #15436b;
+    --nav-color: #2f699c;
+    --bg-color: #000000;
+}
+
+#top-contact {
+    color: var(--heading-color);    
+}
+
+.social-icon {
+    height: 2rem;
+    width: 2rem;
+}
+
+#ecc-logo {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
+
+
+
+#welcome-heading {
+    color: var(--heading-color);
+}
+
+#our-teacher-heading {
+    color: var(--heading-color);
+}
+
+#services-heading {
+    color: var(--heading-color);
+}
+
+/* Footer */
+#footer{
+    background-color: var(--bg-color);
+}
+
